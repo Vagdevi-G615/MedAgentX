@@ -52,30 +52,6 @@ streamlit run main.py
 
 5. Click "Get Diagnosis" to receive AI-powered analysis
 
-## Sample Input/Output
-
-### Input:
-- **Image**: Chest X-ray showing lung opacity
-- **Symptoms**: "persistent cough, fever for 3 days, shortness of breath, chest pain"
-
-### Output:
-```
-Final Diagnosis: Pneumonia
-Confidence: 87.3%
-Risk Level: High
-
-Image Analysis:
-- Normal: 5.2%
-- Pneumonia: 89.1%
-- COVID-19: 5.7%
-
-Symptom Analysis:
-- Normal: 8.4%
-- Pneumonia: 85.6%
-- COVID-19: 6.0%
-
-Recommendation: Recommend immediate consultation with a pulmonologist or emergency care.
-```
 
 ## Project Structure
 
